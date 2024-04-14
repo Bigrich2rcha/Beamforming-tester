@@ -1,7 +1,7 @@
 # Beamforming-tester
-Beamforming tester for TM7 Base station using VSE and RTO Oscilloscope
+Beamforming tester for TM7 LTE Base station using VSE and RTO Oscilloscope
 
-Using an RTO SOcilloscope, and R&S Vector Signal Explorer software I built a measurement system to measure the phase relationships of the UE-RS transmitted by eahc of the 8 RF paths of the base station.
+Using an RTO Oscilloscope, and R&S Vector Signal Explorer software I built a measurement system to measure the phase relationships of the UE-RS transmitted by each of the 8 RF paths of the base station.
 
 Steps to Success:
 1. St up the RTO and VSE to attach to the base station by loading a pre-built config file (to be turned into SCPI commands later)
